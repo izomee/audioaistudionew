@@ -77,7 +77,7 @@ export default function RootLayout({
           <div className="container mx-auto px-4">
             <div className="flex flex-col gap-2">
               <p className="text-xs text-center text-muted-foreground">
-                <span className="terminal-text">Audio AI Studio</span> - Intelligent audio processing and enhancement
+                <span className="terminal-text">Audio AI Studio</span> - Transforming your sounds with a touch of magic ✨
               </p>
               <p className="text-xs text-center text-muted-foreground">
                 © {new Date().getFullYear()} Audio AI Studio. All rights reserved. 
@@ -86,6 +86,9 @@ export default function RootLayout({
               </p>
               <p className="text-xs text-center text-muted-foreground mt-1">
                 <strong>Disclaimer:</strong> We do not have access to or knowledge of the content of your audio files. All processing happens in your browser.
+              </p>
+              <p className="text-xs text-center text-muted-foreground mt-2">
+                Created with passion for music lovers everywhere 🎵 Enjoy the journey!
               </p>
             </div>
           </div>

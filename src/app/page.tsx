@@ -249,7 +249,7 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-2 text-muted-foreground">
               <Terminal size={16} />
-              <span className="text-xs">v1.1.0</span>
+              <span className="text-xs">Made with ❤️</span>
             </div>
           </div>
         </div>

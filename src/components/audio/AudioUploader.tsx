@@ -128,6 +128,7 @@ export default function AudioUploader({ onAudioUpload }: AudioUploaderProps) {
             <div className="flex flex-col items-center gap-2">
               <Loader2 className="h-8 w-8 text-primary animate-spin" />
               <p className="text-sm text-muted-foreground">Processing audio...</p>
+              <p className="text-xs text-primary/80 italic">Your sound journey is about to begin ✨</p>
             </div>
           ) : (
             <>
