@@ -192,7 +192,7 @@ export default function AudioUploader({ onAudioUpload }: AudioUploaderProps) {
               <li>We do not collect or store any personal data from your audio files.</li>
               <li>No cookies are used for tracking or advertising purposes.</li>
               <li>You maintain full ownership and control of your content.</li>
-              <li>This application complies with EU GDPR and German data protection laws.</li>
+              <li>This application complies with EU GDPR data protection standards.</li>
             </ul>
           </div>
         )}
