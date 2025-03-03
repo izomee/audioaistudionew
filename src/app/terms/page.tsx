@@ -26,7 +26,7 @@ export default function TermsOfService() {
               <p>You are responsible for ensuring that your use of the Service complies with all applicable laws, including copyright laws. You may not use the Service to process audio files that you do not have the legal right to modify.</p>
               
               <h2>3. Intellectual Property</h2>
-              <p>The Service and its original content, features, and functionality are and will remain the exclusive property of Audio AI Studio and its licensors. The Service is protected by copyright, trademark, and other laws of both Germany and foreign countries.</p>
+              <p>The Service and its original content, features, and functionality are and will remain the exclusive property of Audio AI Studio and its licensors. The Service is protected by copyright, trademark, and other laws of the European Union and foreign countries.</p>
               <p>Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Audio AI Studio.</p>
               
               <h2>4. User Content</h2>
@@ -37,7 +37,7 @@ export default function TermsOfService() {
               <p>In no event shall Audio AI Studio, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.</p>
               
               <h2>6. Governing Law</h2>
-              <p>These Terms shall be governed and construed in accordance with the laws of Germany, without regard to its conflict of law provisions.</p>
+              <p>These Terms shall be governed and construed in accordance with the laws of the European Union, without regard to its conflict of law provisions.</p>
               <p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect.</p>
               
               <h2>7. Changes to Terms</h2>
@@ -45,7 +45,7 @@ export default function TermsOfService() {
               <p>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
               
               <h2>8. Contact Us</h2>
-              <p>If you have any questions about these Terms, please contact us at legal@audioaistudio.com.</p>
+              <p>If you have any questions about these Terms, please contact us through our website.</p>
               
               <p className="text-sm text-muted-foreground mt-8">Last updated: {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
             </div>
