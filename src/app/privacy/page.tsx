@@ -48,9 +48,9 @@ export default function PrivacyPolicy() {
                 </li>
               </ul>
               
-              <h2 className="text-xl font-semibold mt-8 mb-4">4. Your Rights Under GDPR</h2>
+              <h2 className="text-xl font-semibold mt-8 mb-4">4. Your Rights</h2>
               <p>
-                Under the General Data Protection Regulation (GDPR), you have the following rights:
+                You have the following rights regarding your data:
               </p>
               <ul className="list-disc pl-6 mb-4">
                 <li>The right to access your personal data</li>
@@ -59,11 +59,7 @@ export default function PrivacyPolicy() {
                 <li>The right to restrict processing of your personal data</li>
                 <li>The right to data portability</li>
                 <li>The right to object to processing of your personal data</li>
-                <li>The right not to be subject to automated decision-making, including profiling</li>
               </ul>
-              <p>
-                To exercise any of these rights, please contact us at privacy@audioaistudio.com.
-              </p>
               
               <h2 className="text-xl font-semibold mt-8 mb-4">5. Cookies</h2>
               <p>
@@ -84,8 +80,7 @@ export default function PrivacyPolicy() {
               
               <h2 className="text-xl font-semibold mt-8 mb-4">7. Children's Privacy</h2>
               <p>
-                Our service is not intended for children under 16 years of age. We do not knowingly collect personal data from children under 16. 
-                If you are a parent or guardian and believe your child has provided us with personal data, please contact us.
+                Our service is not intended for children under 16 years of age. We do not knowingly collect personal data from children under 16.
               </p>
               
               <h2 className="text-xl font-semibold mt-8 mb-4">8. Changes to This Privacy Policy</h2>
@@ -94,45 +89,16 @@ export default function PrivacyPolicy() {
                 and updating the "Last updated" date.
               </p>
               
-              <h2 className="text-xl font-semibold mt-8 mb-4">9. Contact Us</h2>
+              <h2 className="text-xl font-semibold mt-8 mb-4">9. Legal Basis for Processing</h2>
               <p>
-                If you have any questions about this privacy policy or our data practices, please contact us at:
-              </p>
-              <p className="mb-4">
-                Email: privacy@audioaistudio.com
-              </p>
-              <p>
-                Audio AI Studio<br />
-                Musterstraße 123<br />
-                10115 Berlin<br />
-                Germany
-              </p>
-              
-              <h2 className="text-xl font-semibold mt-8 mb-4">10. Legal Basis for Processing</h2>
-              <p>
-                In accordance with the GDPR and German data protection laws, we process your data based on the following legal grounds:
+                We process your data based on the following legal grounds:
               </p>
               <ul className="list-disc pl-6 mb-4">
-                <li>Your consent (Art. 6(1)(a) GDPR)</li>
-                <li>Performance of a contract (Art. 6(1)(b) GDPR)</li>
-                <li>Compliance with a legal obligation (Art. 6(1)(c) GDPR)</li>
-                <li>Legitimate interests (Art. 6(1)(f) GDPR)</li>
+                <li>Your consent</li>
+                <li>Performance of a contract</li>
+                <li>Compliance with legal obligations</li>
+                <li>Legitimate interests</li>
               </ul>
-              
-              <h2 className="text-xl font-semibold mt-8 mb-4">11. Data Protection Officer</h2>
-              <p>
-                Our Data Protection Officer can be contacted at:
-              </p>
-              <p>
-                Email: dpo@audioaistudio.com
-              </p>
-              
-              <h2 className="text-xl font-semibold mt-8 mb-4">12. Supervisory Authority</h2>
-              <p>
-                If you are a resident of the European Economic Area (EEA) and believe we are processing your personal data unlawfully, 
-                you have the right to lodge a complaint with your local data protection supervisory authority. 
-                In Germany, this is the Bundesbeauftragter für den Datenschutz und die Informationsfreiheit (BfDI).
-              </p>
             </div>
           </div>
         </div>
