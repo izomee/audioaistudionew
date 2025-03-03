@@ -82,8 +82,7 @@ export default function RootLayout({
               <p className="text-xs text-center text-muted-foreground">
                 © {new Date().getFullYear()} Audio AI Studio. All rights reserved. 
                 <Link href="/terms" className="ml-2 hover:underline">Terms of Service</Link> | 
-                <Link href="/privacy" className="mx-2 hover:underline">Privacy Policy</Link> | 
-                <Link href="/imprint" className="hover:underline">Imprint</Link>
+                <Link href="/privacy" className="mx-2 hover:underline">Privacy Policy</Link>
               </p>
               <p className="text-xs text-center text-muted-foreground mt-1">
                 <strong>Disclaimer:</strong> We do not have access to or knowledge of the content of your audio files. All processing happens in your browser.
