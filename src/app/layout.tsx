@@ -2,6 +2,7 @@ import "./globals.css";
 import { Inter, Fira_Code } from "next/font/google";
 import Link from "next/link";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-geist-sans" });
 const firaCode = Fira_Code({ 
@@ -71,6 +72,7 @@ export default function RootLayout({
       <body className={`${inter.variable} ${firaCode.variable}`}>
         {children}
         <SpeedInsights />
+        <Analytics />
         <footer className="border-t border-border/40 py-4 mt-auto backdrop-blur-sm bg-background/80">
           <div className="container mx-auto px-4">
             <div className="flex flex-col gap-2">
